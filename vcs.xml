@@ -10,9 +10,13 @@
           <option name="url" value="https://github.com/spring-guides/tut-spring-security-and-angular-js.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Blackwatch98/TrelloFront.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\informatyka\aplikacjewebowe\test\Trello-main" />
+    <option name="cloneParentDir" value="D:\informatyka\aplikacjewebowe" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
