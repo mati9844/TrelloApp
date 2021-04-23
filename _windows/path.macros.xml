@@ -1,7 +1,7 @@
 <application>
   <component name="PathMacrosImpl">
-    <macro name="KOTLIN_BUNDLED" value="D:/Users/Mateusz/AppData/Roaming/JetBrains/IntelliJIdea2020.2/plugins/Kotlin/kotlinc" />
     <macro name="MAVEN_REPOSITORY" value="C:/Users/Mateusz/.m2/repository" />
+    <macro name="KOTLIN_BUNDLED" value="D:\Users\Mateusz\AppData\Roaming\JetBrains\IntelliJIdea2020.2\plugins\Kotlin\kotlinc" />
     <macro name="PATH_TO_FX" value="D:/Pobrane/openjfx-11.0.2_windows-x64_bin-sdk (1)/javafx-sdk-11.0.2/lib" />
   </component>
 </application>
